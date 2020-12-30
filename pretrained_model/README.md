@@ -1,1 +1,1 @@
-
+# The BERT base model ( chinese_L-12_H-768_A-12 )
