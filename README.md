@@ -44,7 +44,7 @@
      Google's BERT MODEL ( BERT-Base, Chinese: Chinese Simplified and Traditional, 12-layer, 768-hidden, 12-heads, 110M parameters ) 
      is applied in this part, with the improving of its segmentation codes by the BiLSTM-CNN-CRF model mentioned.
      
-     Some of the results:
+     Some of the results ( about the accuracy of each relationship and its entities extracted ):
      
                                                         Relationship          Precision   Recall    F1 
                                                         Time of the event     93.37%      87.71%    81.19% 
