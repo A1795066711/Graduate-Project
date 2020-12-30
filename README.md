@@ -73,12 +73,13 @@ Data preprocessing is about signing the texts with the relevant relationship, en
                                                         Framework              Tensorflow ( Version：2 )
                                                         IDE                    Spyder     ( Version : 3 ) 
                                                         RAM                    16G 
-                                                                      
-                                                                      Packages:
-                                                                      Package   Version
-                                                                      Torch     1.2.0 ( CPU ) 
-                                                                      Numpy     1.14.6 
-                                                                      Jieba     0.36.2 
-                                                                      Scipy     1.1.0 
-                                                                      Sklearn   0.21.3 
-                                                                      Genism    3.6.0 
+                                                        
+                                                        
+                                                        Packages:
+                                                        Package   Version
+                                                        Torch     1.2.0 ( CPU ) 
+                                                        Numpy     1.14.6 
+                                                        Jieba     0.36.2 
+                                                        Scipy     1.1.0 
+                                                        Sklearn   0.21.3 
+                                                        Genism    3.6.0 
