@@ -4,7 +4,7 @@
   
   It's a project aiming to solve some not high accuracy problems in NLP area particularly in Entity-Relation Extraction.
   
-  For each data set for learning, processes will be:
+  For each data set for learning and prediction, processes will be:
   
   1. Text Segmentation
   
