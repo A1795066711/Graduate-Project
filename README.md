@@ -64,10 +64,12 @@ Data preprocessing is about signing the texts with the relevant relationship, en
 
 ## Some configurations
                                                         Harware:
+                                                        
                                                         CPU                   Intel Core i7 
                                                         GPU                   GTX 
                                                         
                                                         Software:
+                                                        
                                                         OS                     Windows 10 
                                                         Programming Language   Python     ( Version: 3.6 ) 
                                                         Framework              Tensorflow ( Version：2 )
