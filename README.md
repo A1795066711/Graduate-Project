@@ -41,7 +41,7 @@
                                                     
    3.Entity Relation Extraction:
    
-     Google's BERT MODEL ( BERT-Base, Chinese: Chinese Simplified and Traditional, 12-layer, 768-hidden, 12-heads, 110M parameters ) is applied in this part, with the improving of its segmentation codes by the BiLSTM-CNN-CRF model mentioned.
+   Google's BERT MODEL ( BERT-Base, Chinese: Chinese Simplified and Traditional, 12-layer, 768-hidden, 12-heads, 110M parameters ) is applied in this part, with the improving of its segmentation codes by the BiLSTM-CNN-CRF model mentioned.
      
      Some of the results:
      
