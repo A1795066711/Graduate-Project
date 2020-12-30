@@ -77,7 +77,7 @@ Data preprocessing is about signing the texts with the relevant relationship, en
                                                         RAM                    16G 
                                                         
                                                         
-                                                        Packages:
+                                                        Packages ( Python ):
                                                         
                                                         Package   Version
                                                         Torch     1.2.0 ( CPU ) 
