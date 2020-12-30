@@ -30,7 +30,7 @@
      
      Comparation to other base models:                  
     
-                                                        Methods       Precision Recall  F1 
+                                                        Method        Precision Recall  F1 
                                                         ( Base models ) 
                                                         LR            0.87      0.87    0.87 
                                                         MultinomialNB 0.91      0.86    0.88 
