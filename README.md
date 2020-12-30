@@ -1,6 +1,6 @@
 # Graduate-Project
 
-##Intro:
+## Intro
   
   It's a project aiming to solve some not high accuracy problems in NLP area particularly in Entity-Relation Extraction.
   
