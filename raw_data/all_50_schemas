@@ -1,0 +1,6 @@
+{"object_type": "事故", "predicate": "事故开始时间", "subject_type": "时间"}
+{"object_type": "事故", "predicate": "事故影响地区", "subject_type": "地区"}
+{"object_type": "事故", "predicate": "事故影响人口", "subject_type": "事故"}
+{"object_type": "事故", "predicate": "事故教训", "subject_type": "教训"}
+{"object_type": "事故", "predicate": "事故原因", "subject_type": "原因"}
+{"object_type": "实体", "predicate": "unknown", "subject_type": "实体"}
