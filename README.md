@@ -32,7 +32,7 @@
     
                                                         Methods       Precision Recall  F1 
                                                         ( Base models ) 
-                                                        LR            0.87      0.87    0. 87 
+                                                        LR            0.87      0.87    0.87 
                                                         MultinomialNB 0.91      0.86    0.88 
                                                         SVM           0.89      0.76    0.81 
                                                         ( Applied models ) 
