@@ -1,1 +1,1 @@
-## The original model of the Google.
+## The original BERT model of the Google.
