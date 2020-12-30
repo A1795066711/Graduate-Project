@@ -61,3 +61,24 @@
 The data set is composed of plenty of pieces of text about the electricity outage or blackout. 
 
 Data preprocessing is about signing the texts with the relevant relationship, entities and labels for classification.  
+
+## Some configurations
+                                                        Harware:
+                                                        CPU                   Intel Core i7 
+                                                        GPU                   GTX 
+                                                        
+                                                        Software:
+                                                        OS                     Windows 10 
+                                                        Programming Language   Python     ( Version: 3.6 ) 
+                                                        Framework              Tensorflow ( Version：2 )
+                                                        IDE                    Spyder     ( Version : 3 ) 
+                                                        RAM                    16G 
+                                                                      
+                                                                      Packages:
+                                                                      Package   Version
+                                                                      Torch     1.2.0 ( CPU ) 
+                                                                      Numpy     1.14.6 
+                                                                      Jieba     0.36.2 
+                                                                      Scipy     1.1.0 
+                                                                      Sklearn   0.21.3 
+                                                                      Genism    3.6.0 
