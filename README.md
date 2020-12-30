@@ -58,7 +58,7 @@
             
 ## Some details of the data
 
-The data set is composed of plenty of pieces of text about the electricity outage or blackout. 
+The data set is composed of plenty of pieces of texts about the electricity outage or blackout. 
 
 Data preprocessing is about signing the texts with the relevant relationship, entities and labels for classification.  
 
