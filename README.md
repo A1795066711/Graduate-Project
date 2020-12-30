@@ -22,7 +22,7 @@
      
   2. Text Classification
      
-     The training data was collected by web crawler program from the Internet.
+     The training data is collected by the web crawler program from the Internet.
      
      Data would be like: { "some text" , its label } with 10 labels for all.
      
