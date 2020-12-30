@@ -29,6 +29,7 @@
      CNN and RNN models are applied to this task.
      
      Comparation to other base models:                  
+    
                                                         Methods       Precision Recall  F1 
                                                         ( Base models ) 
                                                         LR            0.87      0.87    0. 87 
