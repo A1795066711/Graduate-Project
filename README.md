@@ -1,5 +1,13 @@
 # Graduate-Project
 
+## Ducuments
+
+### BiLSTM-CNN-CRF.PDF
+    The structure of the segmentation model
+
+### graph.svg
+    The final graph formed in NEO4J based on the data set
+    
 ## Intro
   
   It's a project aiming to solve some not high accuracy problems in NLP area particularly in Entity-Relation Extraction.
