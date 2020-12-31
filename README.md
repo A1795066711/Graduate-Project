@@ -6,7 +6,7 @@
    The ***final graph*** formed in NEO4J based on the data set
 
 ### Relation Entity Extraction.pdf
-   The architecture of the Relation & Entity Extration model
+   The architecture of the Relation & Entity Extraction model
 
 ### BiLSTM-CNN-CRF.pdf
    The structure of the segmentation model
