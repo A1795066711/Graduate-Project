@@ -84,7 +84,7 @@ Data preprocessing is about signing the texts with the relevant relationship, en
                                                         OS                     Windows 10 
                                                         Programming Language   Python     ( Version: 3.6 ) 
                                                         Framework              Tensorflow ( Version：2 )
-                                                        IDE                    Spyder     ( Version : 3 ) 
+                                                        IDE                    Spyder     ( Version: 3 ) 
                                                         RAM                    16G 
                                                         
                                                         
