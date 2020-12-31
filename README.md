@@ -3,7 +3,7 @@
 ## Documents
 
 ### graph.svg
-   The **final graph** formed in NEO4J based on the data set
+   The ***final graph*** formed in NEO4J based on the data set
 
 ### Relation Entity Extraction.pdf
    The architecture of the Relation & Entity Extration model
