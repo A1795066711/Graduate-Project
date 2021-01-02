@@ -1,2 +1,2 @@
 # Schemas
-schemas of relationship with its entities
+Schemas of relationship with its entities
