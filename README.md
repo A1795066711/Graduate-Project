@@ -1,9 +1,9 @@
 # Graduation-Project
 
-## The ***final graph*** formed in NEO4J based on the data set
-   ![image](https://github.com/A1795066711/Graduation-Project/blob/main/graph.svg)
-
 ## Documents
+
+## graph.svg
+   The ***final graph*** formed in NEO4J based on the data set
 
 ### Relation Entity Extraction.pdf
    The architecture of the Relation & Entity Extraction model
