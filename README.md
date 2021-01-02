@@ -2,7 +2,7 @@
 
 ## Documents
 
-## graph.svg
+### graph.svg
    The ***final graph*** formed in NEO4J based on the data set
 
 ### Relation Entity Extraction.pdf
