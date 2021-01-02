@@ -1,4 +1,4 @@
-# Graduate-Project
+# Graduation-Project
 
 ## Documents
 
