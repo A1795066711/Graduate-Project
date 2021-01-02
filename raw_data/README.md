@@ -1,4 +1,2 @@
-# Data set
-
-## all_50_schemas
+# Schemas
 schemas of relationship with its entities
