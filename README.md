@@ -23,13 +23,13 @@
      
      The Prediction: Segmentation of the text.
      
-     Comparation with some other models:
-     
-                                                        MODEL           P         R           F1 
-                                                        CRF             0.898    0.891        0.894 
-                                                        LSTM            0.893    0.887        0.889 
-                                                        BiLSTM          0.912    0.897        0.904 
-                                                        BiLSTM-CNN-CRF  0.929    0.921        0.924 
+     Comparation with some other models:（ cited from the [paper](http://www.cnki.com.cn/Article/CJFDTotal-DQXX201908002.htm) and the [project](https://github.com/FanhuaandLuomu/BiLstm_CNN_CRF_CWS) ）
+
+                                                        MODEL           P           R            F1 
+                                                        CRF             0.904       0.898        0.901 
+                                                        LSTM            0.893       0.887        0.890 
+                                                        BiLSTM          0.912       0.907        0.909 
+                                                        BiLSTM-CNN-CRF  0.919644    0.906250     0.912898 
      
   2. Text Classification
      
@@ -39,33 +39,36 @@
      
      CNN and RNN models are applied to this task.
      
-     Comparation to other base models:                  
-    
-                                                        Method        Precision Recall  F1 
+     Comparation to other base models: （ cited from the [paper](http://cdmd.cnki.com.cn/Article/CDMD-83801-1018130739.htm) and the [project](https://github.com/gaussic/text-classification-cnn-rnn)）                 
+
+                                                        Method        Precision Recall   F1 
                                                         ( Base models ) 
-                                                        LR            0.87      0.87    0.87 
-                                                        MultinomialNB 0.91      0.86    0.88 
-                                                        SVM           0.89      0.76    0.81 
+                                                        LR            0.8001    0.7752   0.7357 
+                                                        MultinomialNB 0.9136    0.8527   0.8745 
+                                                        SVM           0.8997    0.8527   0.8489 
                                                         ( Applied models ) 
-                                                        CNN           0.96      0.96    0.96 
-                                                        RNN           0.94      0.94    0.94 
+                                                        CNN           0.96      0.96     0.96 
+                                                        RNN           0.94      0.94     0.94 
                                                     
    3.Entity Relation Extraction:
    
    Google's BERT MODEL ( BERT-Base, Chinese: Chinese Simplified and Traditional, 12-layer, 768-hidden, 12-heads, 110M parameters ) 
    is applied in this part, ***with the improving of its segmentation codes by the BiLSTM-CNN-CRF model mentioned***.
      
-   Some of the results ( about the accuracy of each relationship and its entities extracted ):
+   Results ( about the accuracy of relationships and relevant entities extracted ):
      
-                                                        Relationship          Precision   Recall    F1 
-                                                        Time of the event     93.37%      87.71%    81.19% 
-                                                        Area of the event     86.94%      86.11%    89.11% 
-                                                        Center of the event   89.11%      95.02%    86.19% 
-                                                        Duration of the event 88.16%      81.91%    78.69% 
-                                                        Cause of the event    87.69%      81.11%    87.71% 
-                                                        Lessons of the event  91.78%      61.11%    81.66% 
-                                                        Damage of the event   71.17%      71.88%    87.11% 
+                                                        Schema：
+                                                        Relationship          Subject     Object
+                                                        Time of the event     Event       Time    
+                                                        Area of the event     Event       Area       
+                                                        Duration of the event Event       Duration    
+                                                        Cause of the event    Event       Cause    
+                                                        Lessons of the event  Event       Lessons    
+                                                        Damage of the event   Event       Damage    
                                                         
+                                                        Results：
+                                                        Precision             Recall      F1 
+                                                        0.6496                0.7917      0.7136
             
 ## Some details of the data
 
